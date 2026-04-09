@@ -13,7 +13,7 @@ const _dataSource = (window.siteData) ? {
   song:   window.siteData.musicUrl || null,
   images: window.siteData.imageUrls || [],
 } : {
-  title: "Iu em",
+  title: "Love Letter",
   sender: "",
   receiver: "",
   text: "Năm nay đã là giao thừa thứ 2 chúng ta đồng hành cùng nhau rồi, anh biết là anh vẫn chưa phải là người đàn ông tốt nhất thế giới này, nhưng anh sẽ luôn luôn cố gắng để trở thành người đàn ông tuyệt vời nhất trong lòng em. Mong 2 ta sẽ luôn chúc nhau thế này mỗi năm em nhé",
